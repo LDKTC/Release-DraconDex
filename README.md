@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LDKTC/Release-DraconDex/releases">All releases</a> ·
-  <a href="https://ldktc.github.io/Web-DraconDex/download.html">Download page</a> ·
-  <a href="https://ldktc.github.io/PWA-DraconDex/">Run it in a browser</a>
+  <a href="https://github.com/ZYDRAXYL/DraconDex-REL/releases">All releases</a> ·
+  <a href="https://zydraxyl.github.io/DraconDex-WEB/download.html">Download page</a> ·
+  <a href="https://zydraxyl.github.io/DraconDex-PWA/">Run it in a browser</a>
 </p>
 
 ---
@@ -87,11 +87,11 @@ than leaving the links unexplained.
 ## Where the source is
 
 The app's source, documentation, issue tracker and build workflows are in the
-private `LDKTC/App-DraconDex` repository. Public repositories in the project:
+private `ZYDRAXYL/DraconDex-APP` repository. Public repositories in the project:
 
-- [`LDKTC/Web-DraconDex`](https://github.com/LDKTC/Web-DraconDex) — the website and download page
-- [`LDKTC/PWA-DraconDex`](https://github.com/LDKTC/PWA-DraconDex) — the installable browser build
-- [`LDKTC/DraconDex-Plugin-Template`](https://github.com/LDKTC/DraconDex-Plugin-Template) — starting point for a plugin
+- [`ZYDRAXYL/DraconDex-WEB`](https://github.com/ZYDRAXYL/DraconDex-WEB) — the website and download page
+- [`ZYDRAXYL/DraconDex-PWA`](https://github.com/ZYDRAXYL/DraconDex-PWA) — the installable browser build
+- [`ZYDRAXYL/DraconDex-PGI-Template`](https://github.com/ZYDRAXYL/DraconDex-PGI-Template) — starting point for a plugin
 
 ## License
 
